@@ -1,0 +1,2433 @@
+{
+	"folder_history":
+	[
+		"/home/ohad/.config/sublime-text-3/Packages/C++",
+		"/home/ohad/.config/sublime-text-3/Cache/C++",
+		"/opt/sublime_text/Packages",
+		"/home/ohad/workspace/SProject/finalProject",
+		"/home/ohad/workspace/SProject/finalProject/unit_tests",
+		"/home/ohad/scripts",
+		"/home/ohad/workspace/OS/ex2",
+		"/home/ohad/workspace/2017A/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace",
+		"/home/ohad/cdt-master/git/eclipse.jdt.core/org.eclipse.jdt.core.tests.model/workspace",
+		"/home/ohad/cdt-master/git/eclipse.jdt.core/org.eclipse.jdt.core.tests.compiler/workspace",
+		"/home/ohad/.local/share/Trash/files/cdt-master2.2/ws/.metadata/.plugins/org.eclipse.core.resources/.projects/workspace",
+		"/home/ohad/.local/share/Trash/files/cdt-master2.2/git/eclipse.jdt.core/org.eclipse.jdt.core.tests.model/workspace",
+		"/home/ohad/.local/share/Trash/files/cdt-master2.2/git/eclipse.jdt.core/org.eclipse.jdt.core.tests.compiler/workspace",
+		"/home/ohad/.local/share/Trash/files/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace",
+		"/home/ohad/.local/share/Trash/files/.5.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace",
+		"/home/ohad/.eclipse/org.eclipse.platform_3.8_155965261/plugins/org.eclipse.jdt.core.tests.model_3.10.202.v20161116-1002/workspace",
+		"/home/ohad/.eclipse/org.eclipse.platform_3.8_155965261/plugins/org.eclipse.jdt.core.tests.compiler_3.12.201.v20161117-1814/workspace",
+		"/home/ohad/workspace",
+		"/home/ohad/workspace/2017A/.metadata/.plugins/org.eclipse.core.resources/.projects/OS",
+		"/home/ohad/workspace/OS",
+		"/usr/share/dia/sheets/KAOS",
+		"/usr/share/dia/shapes/CMOS",
+		"/home/ohad/.eclipse/org.eclipse.platform_3.8_155965261/features/org.eclipse.equinox.executable_3.6.300.v20161122-1740/bin/cocoa/macosx/x86_64/Eclipse.app/Contents/MacOS",
+		"/home/ohad/workspace/SProject",
+		"/home/ohad/workspace/SProject/ex3",
+		"/home/ohad/workspace/CompModels/FAdo-1.3.2",
+		"/home/ohad/workspace/CompModels/FAdo-1.3.2/FAdo",
+		"/home/ohad/workspace/OS/ex1",
+		"/home/ohad/workspace/ProjectEx3ner/finalProject",
+		"/home/ohad/workspace/graphs",
+		"/home/ohad/workspace/ProjectEx3ner",
+		"/home/ohad/Desktop/SPSAAR",
+		"/home/ohad/Desktop/203184155_assignment2",
+		"/media/ohad/USB DISK/203184155_assignment2",
+		"/media/ohad/USB DISK/newfolder",
+		"/home/ohad/workspace/euler",
+		"/home/ohad/Downloads/proj3B",
+		"/home/ohad/workspace/SPEx02",
+		"/home/ohad/Documents/project/SPEx02v01",
+		"/home/ohad/Documents/software1/Ex02",
+		"/media/ohad/USB DISK",
+		"/home/ohad/workspace/Ex03/src",
+		"/home/ohad/workspace/Ex03/bin",
+		"/home/ohad/Documents"
+	],
+	"last_version": 3126,
+	"last_window_id": 119,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"ma",
+						"mandatory\t(SPConfig.c)"
+					],
+					[
+						"sp",
+						"spKNN"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"num",
+						"num_of_points"
+					],
+					[
+						"SPKD",
+						"SPKDArray"
+					],
+					[
+						"spI",
+						"spImagesPrefix"
+					],
+					[
+						"spNum",
+						"spConfigGetNumOfImages"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"spNu",
+						"spNumOfSimilarImages"
+					],
+					[
+						"SP_",
+						"SP_CONFIG_SUCCESS"
+					],
+					[
+						"inc",
+						"inc\t#include \"…\""
+					],
+					[
+						"seg",
+						"seg_num"
+					],
+					[
+						"em",
+						"empty_seg_arr"
+					],
+					[
+						"file",
+						"file_seg"
+					],
+					[
+						"write_",
+						"write_amount"
+					],
+					[
+						"wirte",
+						"write_amount"
+					],
+					[
+						"copy",
+						"copy_seg"
+					],
+					[
+						"fil",
+						"file_seg_pq"
+					],
+					[
+						"fi",
+						"file_seg_pq"
+					],
+					[
+						"empty",
+						"empty_seg"
+					],
+					[
+						"va",
+						"vault_size"
+					],
+					[
+						"q",
+						"q_peek"
+					],
+					[
+						"get",
+						"get_name"
+					],
+					[
+						"empty_seg_",
+						"empty_seg_pq"
+					],
+					[
+						"emp",
+						"empty_seg"
+					],
+					[
+						"write",
+						"write_seg"
+					],
+					[
+						"fet",
+						"fetch_from_vault"
+					],
+					[
+						"read",
+						"read_seg"
+					],
+					[
+						"wr",
+						"write_off"
+					],
+					[
+						"cop",
+						"copy_seg_vault"
+					],
+					[
+						"inpu",
+						"input_fd"
+					],
+					[
+						"tmp",
+						"tmp_off"
+					],
+					[
+						"off",
+						"off_t"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"check",
+						"check_and_merge"
+					],
+					[
+						"s",
+						"segment"
+					],
+					[
+						"che",
+						"check_left"
+					],
+					[
+						"n",
+						"new_seg"
+					],
+					[
+						"pri",
+						"printf\tprintf …"
+					],
+					[
+						"print",
+						"print_fat"
+					],
+					[
+						"tm",
+						"tmp_pos"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"inp",
+						"input1"
+					],
+					[
+						"delet",
+						"delete_delim"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"v",
+						"v_seg"
+					],
+					[
+						"spC",
+						"spCaseChoose"
+					],
+					[
+						"nu",
+						"var_num"
+					],
+					[
+						"var",
+						"var_array"
+					],
+					[
+						"mer",
+						"merge_empty_seg"
+					],
+					[
+						"q_",
+						"q_delete"
+					],
+					[
+						"stat",
+						"statbuf"
+					],
+					[
+						"free",
+						"free_space"
+					],
+					[
+						"big",
+						"biggest_pq"
+					],
+					[
+						"i",
+						"if\tIf Condition"
+					],
+					[
+						"seg_n",
+						"seg_num"
+					],
+					[
+						"segm",
+						"segment_arr"
+					],
+					[
+						"zer",
+						"zero_fd"
+					],
+					[
+						"buff",
+						"BUFF_SIZE"
+					],
+					[
+						"ze",
+						"zero_fd"
+					],
+					[
+						"left",
+						"left_to_write"
+					],
+					[
+						"fis",
+						"first_gap"
+					],
+					[
+						"wri",
+						"write_seg"
+					],
+					[
+						"f",
+						"f_list"
+					],
+					[
+						"fre",
+						"free_space"
+					],
+					[
+						"SP",
+						"SPKDArray"
+					],
+					[
+						"max",
+						"max_dim"
+					],
+					[
+						"index",
+						"index_array"
+					],
+					[
+						"size",
+						"ssize_t"
+					],
+					[
+						"point",
+						"point_array"
+					],
+					[
+						"poi",
+						"point_array"
+					],
+					[
+						"he",
+						"heap_size"
+					],
+					[
+						"l",
+						"largest"
+					],
+					[
+						"per",
+						"perm"
+					],
+					[
+						"st",
+						"struct\tstruct"
+					],
+					[
+						"ou",
+						"output_fd"
+					],
+					[
+						"by",
+						"bytes_read"
+					],
+					[
+						"le",
+						"left_to_read"
+					],
+					[
+						"nee",
+						"need_to_read"
+					],
+					[
+						"pr",
+						"printf\tprintf …"
+					],
+					[
+						"just",
+						"just_written"
+					],
+					[
+						"o",
+						"output_fd"
+					],
+					[
+						"Re",
+						"READEND"
+					],
+					[
+						"REA",
+						"READSTART"
+					],
+					[
+						"sta",
+						"statbuf"
+					],
+					[
+						"outpu",
+						"output_name"
+					],
+					[
+						"ju",
+						"just_read"
+					],
+					[
+						"char",
+						"charcters"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"po",
+						"pointArray"
+					],
+					[
+						"p",
+						"primeList"
+					],
+					[
+						"is",
+						"is2Pal"
+					],
+					[
+						"prime",
+						"primeList"
+					],
+					[
+						"ge",
+						"getSinglePoint"
+					],
+					[
+						"m",
+						"malloc"
+					],
+					[
+						"for",
+						"for\tFor Loop"
+					],
+					[
+						"S",
+						"spPointCreate"
+					],
+					[
+						"b",
+						"boolean"
+					],
+					[
+						"t",
+						"toString"
+					],
+					[
+						"I-Arr",
+						"I-Arrays\tinit"
+					],
+					[
+						"ex",
+						"I-Exception\tinit"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"sor",
+						"sortStringWords"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"fo",
+						"for\tfor"
+					],
+					[
+						"te",
+						"testArray2"
+					],
+					[
+						"j",
+						"j.u\tjava.util."
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							""
+						],
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							"All Syntaxes"
+						],
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							"Performance"
+						],
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							"Regex Compatibility"
+						]
+					],
+					[
+						"Packages/Default/Syntax Tests.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Diff Staged Files"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"sin",
+						"Snippet: #ifndef … #define … #endif"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"run",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"git ",
+						"Git: Log All"
+					],
+					[
+						"git st",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"P",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ohad/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+				"/home/ohad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/stuff.c",
+				"/home/ohad/workspace/SProject/finalProject/SPConfig.c",
+				"/home/ohad/workspace/SProject/.git/COMMIT_EDITMSG",
+				"/home/ohad/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/home/ohad/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/home/ohad/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/keymap.html",
+				"/home/ohad/workspace/SProject/finalProject/main_aux.h",
+				"/home/ohad/workspace/SProject/finalProject/SPKDTree.c",
+				"/home/ohad/workspace/SProject/finalProject/main.cpp",
+				"/home/ohad/workspace/SProject/finalProject/main_aux.cpp",
+				"/home/ohad/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/SPBPriorityQueue.c",
+				"/home/ohad/.bashrc",
+				"/home/ohad/scripts/xcl",
+				"/home/ohad/scripts/chd",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/SPPoint.o",
+				"/home/ohad/workspace/SProject/SPBPriorityQueue.o",
+				"/home/ohad/workspace/SProject/Test.class",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/SPBPriorityQueue.o",
+				"/home/ohad/.config/sublime-text-3/Packages/User/SendText.sublime-settings",
+				"/home/ohad/.config/sublime-text-3/Packages/SendText/SendText.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/SPKDArray.c",
+				"/home/ohad/workspace/SProject/finalProject/SPPoint.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_kdtree_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/SPConfig.h",
+				"/home/ohad/workspace/SProject/finalProject/SPKDArray.h",
+				"/home/ohad/workspace/SProject/finalProject/SPKDTree.h",
+				"/home/ohad/workspace/SProject/finalProject/kdarray_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_kdtree_test/incremental_split.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_kdtree_unit_test_make",
+				"/home/ohad/workspace/SProject/finalProject/example.config",
+				"/home/ohad/workspace/SProject/CMakeLists.txt",
+				"/home/ohad/workspace/SProject/finalProject/gitex.sh",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_config_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/kdtree.py",
+				"/home/ohad/workspace/SProject/Test.java",
+				"/home/ohad/workspace/SProject/203184155_318966249_assignment3.zip",
+				"/home/ohad/workspace/SProject/finalProject/strtokexample.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_enum_value_no_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_bool_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_int_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_string_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/no_num_of_images.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/tests_runner/test_runner.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_config_unit_test_make",
+				"/home/ohad/workspace/SProject/finalProject/compile.sh",
+				"/home/ohad/workspace/SProject/finalProject/SPImageProc.cpp",
+				"/home/ohad/workspace/SProject/finalProject/sp_spconfig_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/SPConfig.log",
+				"/home/ohad/workspace/SProject/callgrind.out.20444",
+				"/home/ohad/workspace/SProject/finalProject/SPLogger.c",
+				"/home/ohad/.config/sublime-text-3/Packages/User/C.sublime-settings",
+				"/home/ohad/scripts/DIR",
+				"/home/ohad/anaconda2/bin:/home/ohad/bin:/home/ohad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/testing.sh",
+				"/home/ohad/workspace/OS/ex2/includes.h",
+				"/home/ohad/workspace/OS/ex2/vault_utils.c",
+				"/home/ohad/workspace/OS/ex2/vault_utils.h",
+				"/home/ohad/workspace/OS/ex2/vault.c",
+				"/home/ohad/workspace/OS/ex2/priority_queue.c",
+				"/home/ohad/workspace/OS/ex2/priority_queue.h",
+				"/home/ohad/workspace/OS/ex2/run.sh",
+				"/home/ohad/workspace/OS/ex2/orilog.txt",
+				"/home/ohad/workspace/OS/ex2/seg_utils.c",
+				"/home/ohad/workspace/OS/ex2/log.txt",
+				"/home/ohad/workspace/OS/ex2/ipsum.txt",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/vault1.vlt",
+				"/home/ohad/workspace/OS/ex2/Tests/mario.txt",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/diaryflf.txt",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/mario.txt",
+				"/home/ohad/workspace/OS/ex2/lorem.vlt",
+				"/home/ohad/workspace/OS/ex2/input2.txt",
+				"/home/ohad/workspace/OS/ex2/dedrag_naive.c",
+				"/home/ohad/workspace/OS/ex2/input1.txt",
+				"/home/ohad/workspace/OS/ex2/input4.txt",
+				"/home/ohad/workspace/OS/ex2/seg_utils.h",
+				"/home/ohad/workspace/OS/ex2/pq_unit_test.c",
+				"/home/ohad/workspace/OS/ex2/gdb",
+				"/home/ohad/workspace/OS/ex2/binary_heap.c",
+				"/home/ohad/workspace/OS/ex2/pq_unit_test",
+				"/home/ohad/workspace/OS/ex2/temp.c",
+				"/home/ohad/workspace/SProject/ex3/makefile",
+				"/home/ohad/workspace/OS/ex2/input3.txt",
+				"/home/ohad/workspace/SProject/ex3/SPPoint.c",
+				"/home/ohad/workspace/OS/ex2/vault",
+				"/home/ohad/workspace/OS/ex2/maxsizetest.c",
+				"/home/ohad/workspace/OS/ex2/compile_pq_ut.sh",
+				"/home/ohad/workspace/OS/ex2/input.txt",
+				"/home/ohad/workspace/OS/ex2/mysizeoftest.h",
+				"/home/ohad/workspace/OS/ex2/oritest.sh",
+				"/home/ohad/workspace/SProject/finalProject/stash.c",
+				"/home/ohad/workspace/OS/ex2/make.sh",
+				"/home/ohad/workspace/OS/ex2/ex2_test.py",
+				"/home/ohad/workspace/OS/ex2/compile_vault_util.sh",
+				"/home/ohad/workspace/OS/ex1/data_filter.c",
+				"/home/ohad/workspace/OS/ex1/data_filter",
+				"/home/ohad/workspace/OS/ex2/compilelog.log",
+				"/home/ohad/Desktop/Noa_test/valut.c",
+				"/home/ohad/workspace/OS/ex1/,.",
+				"/home/ohad/scanning_log.txt",
+				"/home/ohad/workspace/OS/ex2/defines.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDArray.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPBPriorityQueue.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDTree.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/gitex.sh",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDTree.h",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/compile.sh",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/val_kdtest.sh",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDArray.h",
+				"/home/ohad/workspace/ProjectEx3ner/ex3/SPPoint.c",
+				"/home/ohad/workspace/ProjectEx3ner/ex3/main.cpp",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/kdarray_unit_test_valgrind_test.xml",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPImageProc.cpp",
+				"/home/ohad/workspace/OS/ex2/vault_launcher.sh",
+				"/home/ohad/Downloads/data_filter.c",
+				"/home/ohad/workspace/OS/data_filter_launcher.sh",
+				"/home/ohad/workspace/OS/output1",
+				"/home/ohad/workspace/OS/data_filter.c",
+				"/home/ohad/workspace/OS/input2",
+				"/home/ohad/workspace/OS/output2",
+				"/home/ohad/workspace/OS/myio.c",
+				"/home/ohad/workspace/OS/testCMD.sh",
+				"/home/ohad/workspace/OS/input1",
+				"/home/ohad/workspace/CompModels/NFAtoDFA.py",
+				"/home/ohad/workspace/OS/testCmd.c"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"extractFeatures",
+					"extractFromFile",
+					"saveToDirectory",
+					"Get",
+					"number",
+					"get",
+					"rand",
+					"init",
+					"spConfigGetSplitMethod",
+					"split",
+					"case",
+					"free",
+					"free/",
+					"malloc",
+					"configs",
+					";\t",
+					"\t\n",
+					"get",
+					"v->before",
+					"before",
+					"else",
+					"set",
+					"1",
+					"set",
+					"void",
+					"|=",
+					"spCase",
+					"choose",
+					"CaseC",
+					"case",
+					"i",
+					"==0)",
+					"if",
+					"break;",
+					"tmp",
+					"Case",
+					"spNumOf",
+					",",
+					"spExtractionMode",
+					"initFromConfig",
+					"getImagesMat",
+					"initPCAFromFile",
+					";",
+					"sp",
+					"spImagesDirectory",
+					"sp",
+					"sp_config_t",
+					"index_array",
+					"kdArr",
+					"cor",
+					"if",
+					"config",
+					"Config",
+					"config",
+					"Config",
+					"config",
+					"Config",
+					"config",
+					"Config",
+					"config",
+					"spPCAFilename",
+					"config",
+					"spPCADimension",
+					"text-",
+					"gnome",
+					"text",
+					"return",
+					"print",
+					"print_",
+					"print_seg",
+					"print_",
+					"printf",
+					";//TODO",
+					"write_Seg",
+					"q_del",
+					"ddd --args",
+					" ./",
+					"copySeg",
+					"malloc",
+					"check",
+					"merge",
+					"delet",
+					"delte",
+					"size",
+					"CREATE",
+					"OFF",
+					"set",
+					"VAL",
+					"set_",
+					"set",
+					"+16",
+					"size",
+					"size: 18",
+					"ssize",
+					"long long",
+					"ssize",
+					"update",
+					"18446744073709551600",
+					"size",
+					"size=",
+					"size",
+					"long long",
+					"18446744073709551600",
+					"OFF_T_MAX",
+					"2097152",
+					"radic",
+					"size",
+					"add",
+					">> /tmp/${EXEC##*/}.log  2>&1",
+					">>  /tmp/${EXEC##*/}.log 2>&1",
+					"delet",
+					"diff ",
+					"diff",
+					"copy",
+					"write",
+					"copy",
+					"write",
+					"\\ No newline at end of file",
+					"Seg",
+					"delete",
+					"write_seg",
+					"write_seg_old",
+					"write",
+					"CREATE",
+					"old",
+					"delete",
+					"delte",
+					" rm "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"seg_num",
+					"distanceQueue",
+					"$zero",
+					"$t6",
+					"$t5",
+					"$t4",
+					"$t3",
+					"$t2",
+					"$t1",
+					"$t0",
+					"$t4",
+					"$t3",
+					"$t2",
+					"$zero",
+					"$t1",
+					"$t0",
+					"$t9",
+					"array",
+					"$t8",
+					"$t7",
+					"$t6",
+					"$t5",
+					"$t4",
+					"$t3",
+					"$t0",
+					"$t1",
+					"--\\n",
+					"\\n",
+					"/*"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 223.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 154.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sp",
+						"SPConfig.c"
+					],
+					[
+						"test",
+						"partners.txt"
+					],
+					[
+						"config",
+						"SPConfig.c"
+					],
+					[
+						"tree",
+						"SPKDTree.c"
+					],
+					[
+						"main",
+						"main_aux.cpp"
+					],
+					[
+						"spcon",
+						"SPConfig.c"
+					],
+					[
+						"sppoi",
+						"SPPoint.c"
+					],
+					[
+						"ex",
+						"ex2_test.py"
+					],
+					[
+						"va",
+						"vault_utils.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/workspace/2017A/graphs.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 325.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"ma",
+						"mandatory\t(SPConfig.c)"
+					],
+					[
+						"sp",
+						"spKNN"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"num",
+						"num_of_points"
+					],
+					[
+						"SPKD",
+						"SPKDArray"
+					],
+					[
+						"spI",
+						"spImagesPrefix"
+					],
+					[
+						"spNum",
+						"spConfigGetNumOfImages"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"spNu",
+						"spNumOfSimilarImages"
+					],
+					[
+						"SP_",
+						"SP_CONFIG_SUCCESS"
+					],
+					[
+						"inc",
+						"inc\t#include \"…\""
+					],
+					[
+						"seg",
+						"seg_num"
+					],
+					[
+						"em",
+						"empty_seg_arr"
+					],
+					[
+						"file",
+						"file_seg"
+					],
+					[
+						"write_",
+						"write_amount"
+					],
+					[
+						"wirte",
+						"write_amount"
+					],
+					[
+						"copy",
+						"copy_seg"
+					],
+					[
+						"fil",
+						"file_seg_pq"
+					],
+					[
+						"fi",
+						"file_seg_pq"
+					],
+					[
+						"empty",
+						"empty_seg"
+					],
+					[
+						"va",
+						"vault_size"
+					],
+					[
+						"q",
+						"q_peek"
+					],
+					[
+						"get",
+						"get_name"
+					],
+					[
+						"empty_seg_",
+						"empty_seg_pq"
+					],
+					[
+						"emp",
+						"empty_seg"
+					],
+					[
+						"write",
+						"write_seg"
+					],
+					[
+						"fet",
+						"fetch_from_vault"
+					],
+					[
+						"read",
+						"read_seg"
+					],
+					[
+						"wr",
+						"write_off"
+					],
+					[
+						"cop",
+						"copy_seg_vault"
+					],
+					[
+						"inpu",
+						"input_fd"
+					],
+					[
+						"tmp",
+						"tmp_off"
+					],
+					[
+						"off",
+						"off_t"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"check",
+						"check_and_merge"
+					],
+					[
+						"s",
+						"segment"
+					],
+					[
+						"che",
+						"check_left"
+					],
+					[
+						"n",
+						"new_seg"
+					],
+					[
+						"pri",
+						"printf\tprintf …"
+					],
+					[
+						"print",
+						"print_fat"
+					],
+					[
+						"tm",
+						"tmp_pos"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"inp",
+						"input1"
+					],
+					[
+						"delet",
+						"delete_delim"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"v",
+						"v_seg"
+					],
+					[
+						"spC",
+						"spCaseChoose"
+					],
+					[
+						"nu",
+						"var_num"
+					],
+					[
+						"var",
+						"var_array"
+					],
+					[
+						"mer",
+						"merge_empty_seg"
+					],
+					[
+						"q_",
+						"q_delete"
+					],
+					[
+						"stat",
+						"statbuf"
+					],
+					[
+						"free",
+						"free_space"
+					],
+					[
+						"big",
+						"biggest_pq"
+					],
+					[
+						"i",
+						"if\tIf Condition"
+					],
+					[
+						"seg_n",
+						"seg_num"
+					],
+					[
+						"segm",
+						"segment_arr"
+					],
+					[
+						"zer",
+						"zero_fd"
+					],
+					[
+						"buff",
+						"BUFF_SIZE"
+					],
+					[
+						"ze",
+						"zero_fd"
+					],
+					[
+						"left",
+						"left_to_write"
+					],
+					[
+						"fis",
+						"first_gap"
+					],
+					[
+						"wri",
+						"write_seg"
+					],
+					[
+						"f",
+						"f_list"
+					],
+					[
+						"fre",
+						"free_space"
+					],
+					[
+						"SP",
+						"SPKDArray"
+					],
+					[
+						"max",
+						"max_dim"
+					],
+					[
+						"index",
+						"index_array"
+					],
+					[
+						"size",
+						"ssize_t"
+					],
+					[
+						"point",
+						"point_array"
+					],
+					[
+						"poi",
+						"point_array"
+					],
+					[
+						"he",
+						"heap_size"
+					],
+					[
+						"l",
+						"largest"
+					],
+					[
+						"per",
+						"perm"
+					],
+					[
+						"st",
+						"struct\tstruct"
+					],
+					[
+						"ou",
+						"output_fd"
+					],
+					[
+						"by",
+						"bytes_read"
+					],
+					[
+						"le",
+						"left_to_read"
+					],
+					[
+						"nee",
+						"need_to_read"
+					],
+					[
+						"pr",
+						"printf\tprintf …"
+					],
+					[
+						"just",
+						"just_written"
+					],
+					[
+						"o",
+						"output_fd"
+					],
+					[
+						"Re",
+						"READEND"
+					],
+					[
+						"REA",
+						"READSTART"
+					],
+					[
+						"sta",
+						"statbuf"
+					],
+					[
+						"outpu",
+						"output_name"
+					],
+					[
+						"ju",
+						"just_read"
+					],
+					[
+						"char",
+						"charcters"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"po",
+						"pointArray"
+					],
+					[
+						"p",
+						"primeList"
+					],
+					[
+						"is",
+						"is2Pal"
+					],
+					[
+						"prime",
+						"primeList"
+					],
+					[
+						"ge",
+						"getSinglePoint"
+					],
+					[
+						"m",
+						"malloc"
+					],
+					[
+						"for",
+						"for\tFor Loop"
+					],
+					[
+						"S",
+						"spPointCreate"
+					],
+					[
+						"b",
+						"boolean"
+					],
+					[
+						"t",
+						"toString"
+					],
+					[
+						"I-Arr",
+						"I-Arrays\tinit"
+					],
+					[
+						"ex",
+						"I-Exception\tinit"
+					],
+					[
+						"pro",
+						"process"
+					],
+					[
+						"sor",
+						"sortStringWords"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"fo",
+						"for\tfor"
+					],
+					[
+						"te",
+						"testArray2"
+					],
+					[
+						"j",
+						"j.u\tjava.util."
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "SPKDArray.c",
+					"settings":
+					{
+						"buffer_size": 4449,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "lorem.txt",
+					"settings":
+					{
+						"buffer_size": 445,
+						"line_ending": "Unix",
+						"name": "Lorem ipsum dolor sit amet, consectetur adipisicin"
+					}
+				},
+				{
+					"contents": "Searching 70 files for \"If Condition\" (regex)\n\n0 matches",
+					"settings":
+					{
+						"buffer_size": 56,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							""
+						],
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							"All Syntaxes"
+						],
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							"Performance"
+						],
+						[
+							"Packages/Default/Syntax Tests.sublime-build",
+							"Regex Compatibility"
+						]
+					],
+					[
+						"Packages/Default/Syntax Tests.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 92.0,
+				"last_filter": "lorem",
+				"selected_items":
+				[
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"sin",
+						"Snippet: #ifndef … #define … #endif"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"run",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"git ",
+						"Git: Log All"
+					],
+					[
+						"git st",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"P",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/ohad/.config/sublime-text-3/Packages/C++"
+			],
+			"file_history":
+			[
+				"/opt/sublime_text/Packages/C++.sublime-package",
+				"/home/ohad/workspace/SProject/finalProject/partners.txt",
+				"/home/ohad/workspace/SProject/finalProject/stuff.c",
+				"/home/ohad/workspace/SProject/finalProject/SPConfig.c",
+				"/home/ohad/workspace/SProject/.git/COMMIT_EDITMSG",
+				"/home/ohad/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/home/ohad/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/home/ohad/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/keymap.html",
+				"/home/ohad/workspace/SProject/finalProject/main_aux.h",
+				"/home/ohad/workspace/SProject/finalProject/SPKDTree.c",
+				"/home/ohad/workspace/SProject/finalProject/main.cpp",
+				"/home/ohad/workspace/SProject/finalProject/main_aux.cpp",
+				"/home/ohad/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/SPBPriorityQueue.c",
+				"/home/ohad/.bashrc",
+				"/home/ohad/scripts/xcl",
+				"/home/ohad/scripts/chd",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/SPPoint.o",
+				"/home/ohad/workspace/SProject/SPBPriorityQueue.o",
+				"/home/ohad/workspace/SProject/Test.class",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/SPBPriorityQueue.o",
+				"/home/ohad/.config/sublime-text-3/Packages/User/SendText.sublime-settings",
+				"/home/ohad/.config/sublime-text-3/Packages/SendText/SendText.sublime-settings",
+				"/home/ohad/workspace/SProject/finalProject/SPKDArray.c",
+				"/home/ohad/workspace/SProject/finalProject/SPPoint.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_kdtree_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/SPConfig.h",
+				"/home/ohad/workspace/SProject/finalProject/SPKDArray.h",
+				"/home/ohad/workspace/SProject/finalProject/SPKDTree.h",
+				"/home/ohad/workspace/SProject/finalProject/kdarray_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_kdtree_test/incremental_split.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_kdtree_unit_test_make",
+				"/home/ohad/workspace/SProject/finalProject/example.config",
+				"/home/ohad/workspace/SProject/CMakeLists.txt",
+				"/home/ohad/workspace/SProject/finalProject/gitex.sh",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_config_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/kdtree.py",
+				"/home/ohad/workspace/SProject/Test.java",
+				"/home/ohad/workspace/SProject/203184155_318966249_assignment3.zip",
+				"/home/ohad/workspace/SProject/finalProject/strtokexample.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_enum_value_no_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_bool_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_int_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/invalid_string_value.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/configs/sp_config_test/no_num_of_images.config",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/tests_runner/test_runner.c",
+				"/home/ohad/workspace/SProject/finalProject/unit_tests/sp_config_unit_test_make",
+				"/home/ohad/workspace/SProject/finalProject/compile.sh",
+				"/home/ohad/workspace/SProject/finalProject/SPImageProc.cpp",
+				"/home/ohad/workspace/SProject/finalProject/sp_spconfig_unit_test.c",
+				"/home/ohad/workspace/SProject/finalProject/SPConfig.log",
+				"/home/ohad/workspace/SProject/callgrind.out.20444",
+				"/home/ohad/workspace/SProject/finalProject/SPLogger.c",
+				"/home/ohad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/ohad/.config/sublime-text-3/Packages/User/C.sublime-settings",
+				"/home/ohad/scripts/DIR",
+				"/home/ohad/anaconda2/bin:/home/ohad/bin:/home/ohad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/testing.sh",
+				"/home/ohad/workspace/OS/ex2/includes.h",
+				"/home/ohad/workspace/OS/ex2/vault_utils.c",
+				"/home/ohad/workspace/OS/ex2/vault_utils.h",
+				"/home/ohad/workspace/OS/ex2/vault.c",
+				"/home/ohad/workspace/OS/ex2/priority_queue.c",
+				"/home/ohad/workspace/OS/ex2/priority_queue.h",
+				"/home/ohad/workspace/OS/ex2/run.sh",
+				"/home/ohad/workspace/OS/ex2/orilog.txt",
+				"/home/ohad/workspace/OS/ex2/seg_utils.c",
+				"/home/ohad/workspace/OS/ex2/log.txt",
+				"/home/ohad/workspace/OS/ex2/ipsum.txt",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/vault1.vlt",
+				"/home/ohad/workspace/OS/ex2/Tests/mario.txt",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/diaryflf.txt",
+				"/home/ohad/workspace/OS/ex2/Tests/exec_dir/mario.txt",
+				"/home/ohad/workspace/OS/ex2/lorem.vlt",
+				"/home/ohad/workspace/OS/ex2/input2.txt",
+				"/home/ohad/workspace/OS/ex2/dedrag_naive.c",
+				"/home/ohad/workspace/OS/ex2/input1.txt",
+				"/home/ohad/workspace/OS/ex2/input4.txt",
+				"/home/ohad/workspace/OS/ex2/seg_utils.h",
+				"/home/ohad/workspace/OS/ex2/pq_unit_test.c",
+				"/home/ohad/workspace/OS/ex2/gdb",
+				"/home/ohad/workspace/OS/ex2/binary_heap.c",
+				"/home/ohad/workspace/OS/ex2/pq_unit_test",
+				"/home/ohad/workspace/OS/ex2/temp.c",
+				"/home/ohad/workspace/SProject/ex3/makefile",
+				"/home/ohad/workspace/OS/ex2/input3.txt",
+				"/home/ohad/workspace/SProject/ex3/SPPoint.c",
+				"/home/ohad/workspace/OS/ex2/vault",
+				"/home/ohad/workspace/OS/ex2/maxsizetest.c",
+				"/home/ohad/workspace/OS/ex2/compile_pq_ut.sh",
+				"/home/ohad/workspace/OS/ex2/input.txt",
+				"/home/ohad/workspace/OS/ex2/mysizeoftest.h",
+				"/home/ohad/workspace/OS/ex2/oritest.sh",
+				"/home/ohad/workspace/SProject/finalProject/stash.c",
+				"/home/ohad/workspace/OS/ex2/make.sh",
+				"/home/ohad/workspace/OS/ex2/ex2_test.py",
+				"/home/ohad/workspace/OS/ex2/compile_vault_util.sh",
+				"/home/ohad/workspace/OS/ex1/data_filter.c",
+				"/home/ohad/workspace/OS/ex1/data_filter",
+				"/home/ohad/workspace/OS/ex2/compilelog.log",
+				"/home/ohad/Desktop/Noa_test/valut.c",
+				"/home/ohad/workspace/OS/ex1/,.",
+				"/home/ohad/scanning_log.txt",
+				"/home/ohad/workspace/OS/ex2/defines.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDArray.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPBPriorityQueue.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDTree.c",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/gitex.sh",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDTree.h",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/compile.sh",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/val_kdtest.sh",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPKDArray.h",
+				"/home/ohad/workspace/ProjectEx3ner/ex3/SPPoint.c",
+				"/home/ohad/workspace/ProjectEx3ner/ex3/main.cpp",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/kdarray_unit_test_valgrind_test.xml",
+				"/home/ohad/workspace/ProjectEx3ner/finalProject/SPImageProc.cpp",
+				"/home/ohad/workspace/OS/ex2/vault_launcher.sh",
+				"/home/ohad/Downloads/data_filter.c",
+				"/home/ohad/workspace/OS/data_filter_launcher.sh",
+				"/home/ohad/workspace/OS/output1",
+				"/home/ohad/workspace/OS/data_filter.c",
+				"/home/ohad/workspace/OS/input2",
+				"/home/ohad/workspace/OS/output2",
+				"/home/ohad/workspace/OS/myio.c",
+				"/home/ohad/workspace/OS/testCMD.sh",
+				"/home/ohad/workspace/OS/input1",
+				"/home/ohad/workspace/CompModels/NFAtoDFA.py"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"If Condition",
+					"snippet",
+					"extractFeatures",
+					"extractFromFile",
+					"saveToDirectory",
+					"Get",
+					"number",
+					"get",
+					"rand",
+					"init",
+					"spConfigGetSplitMethod",
+					"split",
+					"case",
+					"free",
+					"free/",
+					"malloc",
+					"configs",
+					";\t",
+					"\t\n",
+					"get",
+					"v->before",
+					"before",
+					"else",
+					"set",
+					"1",
+					"set",
+					"void",
+					"|=",
+					"spCase",
+					"choose",
+					"CaseC",
+					"case",
+					"i",
+					"==0)",
+					"if",
+					"break;",
+					"tmp",
+					"Case",
+					"spNumOf",
+					",",
+					"spExtractionMode",
+					"initFromConfig",
+					"getImagesMat",
+					"initPCAFromFile",
+					";",
+					"sp",
+					"spImagesDirectory",
+					"sp",
+					"sp_config_t",
+					"index_array",
+					"kdArr",
+					"cor",
+					"if",
+					"config",
+					"Config",
+					"config",
+					"Config",
+					"config",
+					"Config",
+					"config",
+					"Config",
+					"config",
+					"spPCAFilename",
+					"config",
+					"spPCADimension",
+					"text-",
+					"gnome",
+					"text",
+					"return",
+					"print",
+					"print_",
+					"print_seg",
+					"print_",
+					"printf",
+					";//TODO",
+					"write_Seg",
+					"q_del",
+					"ddd --args",
+					" ./",
+					"copySeg",
+					"malloc",
+					"check",
+					"merge",
+					"delet",
+					"delte",
+					"size",
+					"CREATE",
+					"OFF",
+					"set",
+					"VAL",
+					"set_",
+					"set",
+					"+16",
+					"size",
+					"size: 18",
+					"ssize",
+					"long long",
+					"ssize",
+					"update",
+					"18446744073709551600",
+					"size",
+					"size=",
+					"size",
+					"long long",
+					"18446744073709551600",
+					"OFF_T_MAX",
+					"2097152",
+					"radic",
+					"size",
+					"add",
+					">> /tmp/${EXEC##*/}.log  2>&1",
+					">>  /tmp/${EXEC##*/}.log 2>&1",
+					"delet",
+					"diff ",
+					"diff",
+					"copy",
+					"write",
+					"copy",
+					"write",
+					"\\ No newline at end of file",
+					"Seg",
+					"delete",
+					"write_seg",
+					"write_seg_old",
+					"write",
+					"CREATE",
+					"old",
+					"delete"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"seg_num",
+					"distanceQueue",
+					"$zero",
+					"$t6",
+					"$t5",
+					"$t4",
+					"$t3",
+					"$t2",
+					"$t1",
+					"$t0",
+					"$t4",
+					"$t3",
+					"$t2",
+					"$zero",
+					"$t1",
+					"$t0",
+					"$t9",
+					"array",
+					"$t8",
+					"$t7",
+					"$t6",
+					"$t5",
+					"$t4",
+					"$t3",
+					"$t0",
+					"$t1",
+					"--\\n",
+					"\\n",
+					"/*"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/ohad/.config/sublime-text-3/Packages/C++"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "SPKDArray.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4449,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										127,
+										127
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C Improved/C Improved.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "lorem.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										372,
+										372
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Lorem ipsum dolor sit amet, consectetur adipisicin",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 56,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"default_dir": "/home/ohad/workspace/SProject/finalProject",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 223.0
+			},
+			"output.find_results":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 154.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sp",
+						"SPConfig.c"
+					],
+					[
+						"test",
+						"partners.txt"
+					],
+					[
+						"config",
+						"SPConfig.c"
+					],
+					[
+						"tree",
+						"SPKDTree.c"
+					],
+					[
+						"main",
+						"main_aux.cpp"
+					],
+					[
+						"spcon",
+						"SPConfig.c"
+					],
+					[
+						"sppoi",
+						"SPPoint.c"
+					],
+					[
+						"ex",
+						"ex2_test.py"
+					],
+					[
+						"va",
+						"vault_utils.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/workspace/2017A/graphs.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 325.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 113,
+			"workspace_name": "/home/ohad/workspace/SProject/finalProject/finalProject.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/ohad/workspace/SProject/finalProject/finalProject.sublime-workspace",
+			"/home/ohad/workspace/2017A/graphs.sublime-workspace"
+		]
+	}
+}

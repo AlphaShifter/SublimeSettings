@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"C Improved",
+		"ClangAutoComplete",
+		"Git",
+		"JavaIME",
+		"Javatar",
+		"LaTeX Equation Preview",
+		"LaTeXing",
+		"LogView",
+		"Package Control",
+		"PackageResourceViewer",
+		"SendText",
+		"SideBarEnhancements",
+		"Terminal"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"jdk_version":
+	{
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/home/ohad/.config/sublime-text-3/Packages/C++"
+				}
+			]
+		}
+	}
+}

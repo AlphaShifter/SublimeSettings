@@ -1,0 +1,13 @@
+[
+	{
+		"args":
+		{
+			"close_panel": true
+		},
+		"command": "find_all"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	}
+]
